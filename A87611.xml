@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some speciall passages from Warwickshire. Concerning the proceedings of the Right Honourable the Lord Brooke. Sent in a letter from Samburne, to a friend in London, being a true relation of the distractions in those parts, this fourth of August 1642.</title>
+            <author>Johnsons, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87611</idno>
+            <idno type="STC">Wing J851</idno>
+            <idno type="STC">Thomason E109_3</idno>
+            <idno type="STC">ESTC R6776</idno>
+            <idno type="EEBO-CITATION">99873038</idno>
+            <idno type="PROQUEST">99873038</idno>
+            <idno type="VID">125485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125485)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some speciall passages from Warwickshire. Concerning the proceedings of the Right Honourable the Lord Brooke. Sent in a letter from Samburne, to a friend in London, being a true relation of the distractions in those parts, this fourth of August 1642.</title>
+                  <author>Johnsons, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Addressed to Mr. Iohn Gibbes.</note>
+                  <note>Signed: Thomas Iohnson.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwickshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125485:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <p>Some Speciall PASSAGES FROM WARWICK-SHIRE.</p>
+            <p>Concerning the proceedings of the Right Honourable the LORD <hi>BROOKE.</hi>
+            </p>
+            <p>Sent in a Letter from <hi>Samburne,</hi> to a friend in <hi>London,</hi> being a true Relation of the diſtractions in thoſe parts, this fourth of <hi>August</hi> 1642.</p>
+            <p>London printed for <hi>Iohn Bull.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125485:2"/>
+            <!-- PDF PAGE 36 -->
+            <pb n="1" facs="tcp:125485:2"/>
+            <!-- PDF PAGE 36 -->
+            <head>Some ſpeciall PASSAGES FROM <hi>Warwick-Shire.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>Iohn Gibbes,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is here in <hi>Warwicke-Shire,</hi> wee are like to fall into great calamities and diſtreſ<g ref="char:EOLhyphen"/>ſes, if the Lord above doe not hold his holy hand over us; For you know that the Lord <hi>Brooke</hi> was made Lord <hi>Lievte<g ref="char:EOLhyphen"/>nant</hi> for <hi>Warwick-Shire,</hi> in my Lord <hi>Comptons</hi> place. Now any Lord <hi>Brooke</hi> being choſe by the <hi>Parliament,</hi> and n<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the <hi>King,</hi> My LORD <hi>Compton</hi> and my Lord <hi>Brooke</hi> are in great variance, for the Kings Ma<g ref="char:EOLhyphen"/>jeſt<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath given <hi>Warwicke</hi> Caſtle unto the Lord <hi>Comp<g ref="char:EOLhyphen"/>ton;</hi> Whereupon my Lord <hi>Brooke</hi> hath placed foure great peeces of Ordnance in the Caſtle, one of them is placed upon the round Tower, the other is placed at
+<pb n="2" facs="tcp:125485:3"/>
+               <!-- PDF PAGE 37 -->the Gate, the other at Caeſars Tower, and the other over the Gate.</p>
+            <p>Likewiſe my <hi>Lord Brooke</hi> ſent his warrants abroad in two or three hundreds of the Shire to gather the Traine band together at Stradford upon Avon, and as many Volunteeres as every Conſtable could raiſe. So there were aimed to be very neare two thouſand of Volunteeres of Horſe-men, and Foote men. I was there my ſelfe, I ſee it, but there were but very few traine men would come in, becauſe my <hi>Lord Brookes</hi> warrants did not give the Country ſatisfaction, for his warrants runne in the name of the <hi>Parliament,</hi> and not one word of the <hi>King:</hi> So my <hi>Lord Brooke</hi> tooke di<g ref="char:EOLhyphen"/>ſtaſte at the <hi>Conſtables,</hi> becauſe they would not obey his firſt warrants, and then he made a new Proclama<g ref="char:EOLhyphen"/>tion that his warrants ſhould goe in the Kings Maje<g ref="char:EOLhyphen"/>ſties name and the Parliaments, together and thoſe Conſt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bles that did not bring in their <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aine Souldiers unto <hi>Stradford,</hi> he commanded them in his Proclama<g ref="char:EOLhyphen"/>tion that they ſhould bring them unto <hi>Sutton Cofild,</hi> where there was a great meeting, the next Munday following, and ſo they did, and my Lord <hi>Brooke</hi> ſpake in his Proclamation that hee was, (and had tooke his oath) appointed by the Parliament to fetch away the Magazine from <hi>Coventry,</hi> which my LORD <hi>Comp<g ref="char:EOLhyphen"/>ton</hi> had laid there for the good of the Country and ſo within one day after he had beene at <hi>Stradford,</hi> my Lord <hi>Brooke</hi> went unto <hi>Coventry</hi> unto the Major to de<g ref="char:EOLhyphen"/>mand the Magazin, hee delivered it unto him, hee brought it unto <hi>Warwicke</hi> Caſtle with him, and there it is. It was two great Cart loades, and a Waggon loa<g ref="char:EOLhyphen"/>ded with Gun-powder bullets and match, now my Lord <hi>Compton</hi> within foure or five dayes after (with
+<pb n="3" facs="tcp:125485:3"/>
+               <!-- PDF PAGE 37 -->threeſcore horſe-men, with Hats and Feathers) went unto <hi>Coventry</hi> to know of the Major the reaſon why hee had delivered the Magazine unto the Lord <hi>Brooke</hi> his anſwer was thus becauſe he ſhewed his Commiſſi<g ref="char:EOLhyphen"/>on from the Parliament; So the Major told my <hi>Lord Compton</hi> that the City would lay in as much of their owne proper Coſt and charges as my Lord <hi>Brooke</hi> tooke away, and ſo my Lord <hi>Compton</hi> was content with that promiſe: now my <hi>Lord Brooke</hi> he is in great feares that my Lord <hi>Compton</hi> will come and ceaſe up<g ref="char:EOLhyphen"/>on the Caſtle, for the laſt Munday, my Lord <hi>Brooke</hi> did raiſe up three hundred men all with their muskets and ſwords to keepe the Caſtle, he thinking my Lord <hi>Compton</hi> would come with his forces then, but he did not, ſo our men came all home again; for hee had a great company out of our Towne of <hi>Alceſter</hi> and from <hi>Stradford</hi> and from Brummy chum ſide, and all the Country over, now my Lord <hi>Brooke</hi> ſent one of his chiefe men that he keepes, unto Maſter <hi>Bridges</hi> of our towne which is my Lords chiefe Steward, to cer<g ref="char:EOLhyphen"/>tifie Maſter <hi>Bridges</hi> that hee would come unto dinner unto him, ſo there was greater providing for my Lords comming and about tenne of the Clock in the morn<g ref="char:EOLhyphen"/>ing my Lords Poſt came unto Maſter <hi>Bridges</hi> to tell his LORD could not come at that time. But wiſhed him to ſend him as many luſty men as the Town could ſpare and to bring their Armes with them: So the Conſtables went about the Towne to get as many as they could ſo upon Thurſday night the Bayliffes and Conſtables ſent halfe a ſcore, and all that goe, my Lord hath promiſed them five ſhillings a weeke, and their beere and their lodgings, ſo upon <hi>Friday</hi> night laſt, my Lord ſent another Poſt unto the Towne for
+<pb n="4" facs="tcp:125485:4"/>
+               <!-- PDF PAGE 38 -->more men and ſo there went foure more, and now this day there are more men to goe out of our Towne of <hi>Alceſter,</hi> there was a hundred brave men went from Brummichum unto <hi>War-wicke Caſtle</hi> upon Saturday with their Armes of Muskets and Swords; and a hun<g ref="char:EOLhyphen"/>dred more went from <hi>Stradford, Henly,</hi> and <hi>Coſill</hi> unto the Caſtle this laſt Sunday, for the King came unto <hi>Leceſter</hi> upon Saturday laſt with his troope to demand the Magazine and the Armes of the Towne, ſo the Major denyed, and told the King that it ſhould bee kept for the good of his Majeſty, and for the <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> good. I could tell you more, but I have not time, but in the next place I will tell you how the King is to come unto <hi>War-wicke</hi> as this day, or to morrow with my Lord <hi>Comptons</hi> forces to demand the Maga<g ref="char:EOLhyphen"/>zine, which my Lord <hi>Brooke</hi> fetcht from <hi>Coventry,</hi> and upon <hi>Friday</hi> next my Lord <hi>Compton</hi> meeres at <hi>Strad<g ref="char:EOLhyphen"/>ford,</hi> he hath ſent out warrants already to the high <hi>Con<g ref="char:EOLhyphen"/>ſtables,</hi> that all other <hi>Constables</hi> meete there to heare his Proclamation, concerning the ſettling of the Commiſſion of <hi>Aray</hi> for the which my Lord <hi>Brooke</hi> will oppoſe, he ſayes, if he loſe his owne heart bloud, for hee is a ſworne man unto the Parliament, and hee will oppoſe it, and then it is ſuppoſed and thought that the King comes unto our Towne to demand the armes here, but they will not be delivered, but yet ne<g ref="char:EOLhyphen"/>vertheleſſe the Towne will bee for the King in a faire way as long as they live, and ſo the King, it is ſuppoſed will goe unto <hi>Worceſter,</hi> from thence unto <hi>Ragnole</hi> Ca<g ref="char:EOLhyphen"/>ſtle in <hi>Wales,</hi> where the Earle of <hi>Worceſter</hi> dwelleth, and now I have writ ſo largely unto you how matters goe with us, I would entreat you either in print or in writing, to ſend unto your friend what newes you
+<pb n="5" facs="tcp:125485:4"/>
+               <!-- PDF PAGE 38 -->have in <hi>London,</hi> for here is nothing but providing of armes. The Lord <hi>Compton</hi> went laſt Friday with three hundred Horſe-men to meete the King, now there is ſuch providing in <hi>Warwicke</hi> Caſtle for the Kings com<g ref="char:EOLhyphen"/>ming the like hath not beene this many yeares, to re<g ref="char:EOLhyphen"/>ceave him Royally, if hee come in peace, if other<g ref="char:EOLhyphen"/>wayes, I am afraid wee ſhall have a wofull time of it and ſo God of his mercy think upon us, I commit you unto God.</p>
+            <p>This which I have written is very true.</p>
+            <closer>
+               <dateline>Samburne</dateline> 
+               <signed>Your friend, <hi>Thomas Iohnſons.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
